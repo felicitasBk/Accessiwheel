@@ -1,0 +1,252 @@
+{
+  "routes": [
+    {
+      "name": "Konzerthalle - ERBA Bibliothek",
+      "description": "Easily accessible",
+      "imageURL": "https://www.uni-bamberg.de/fileadmin/ub/Teilbibliothek_6/ERBA_aussen.jpg",
+      "rating": "4.3",
+      "waypoints": [
+        {
+          "waypoint_name" : "Konzerthalle Sinfonie an der Regnitz",
+          "address": "Konzerthalle, Mußstraße 1, 96047 Bamberg",
+          "latitude": 49.8967633,
+          "longitude": 10.8788516
+        },
+        {
+          "waypoint_name" : "Jugendherberge Bamberg",
+          "address": "Unterer Kaulberg 30, 96049, Bamberg",
+          "latitude": 49.888985,
+          "longitude": 10.8828637
+        },
+        {
+          "waypoint_name" : "Universitätsbibliothek ERBA-Bibliothek",
+          "address": "ERBA Library, An d. Weberei 5, 96049 Bamberg",
+          "latitude": 49.9032661,
+          "longitude": 10.8698866
+        }
+      ]
+    },
+    {
+      "name": "Diözesanmuseum - Rosengarten",
+      "description": "Partially accessible",
+      "imageURL": "https://www.schloesser.bayern.de/bilder/garten/bamberg450.jpg",
+      "rating": "3.5",
+      "waypoints": [
+        {
+          "waypoint_name" : "Diözesanmuseum Bamberg",
+          "address": "Domplatz 5, 96049, Bamberg",
+          "latitude": 49.8905841,
+          "longitude": 10.8832185
+        },
+        {
+          "waypoint_name" : "Neue Residenz",
+          "address": "Domplatz 8, 96049, Bamberg",
+          "latitude": 49.8917516,
+          "longitude": 10.8817535
+        }
+      ]
+    },
+    {
+      "name": "Altes Rathaus - Sankt Martin",
+      "description": "Fairly accessible",
+      "imageURL": "https://vonortzuort.reisen/wp-content/uploads/2019/09/altes-rathaus-bamberg.jpg",
+      "rating": "3.8",
+      "waypoints": [
+        {
+          "waypoint_name" : "Altes Rathaus",
+          "address": "Ob. Brücke, Altes Rathaus, 96049 Bamberg",
+          "latitude": 49.8916002,
+          "longitude": 10.886786 
+        },
+        {
+          "waypoint_name" : "Hotel Nepomuk",
+          "address": "Obere Mühlbrücke 5, 96049, Bamberg",
+          "latitude": 49.8892455,
+          "longitude": 10.887484
+        },
+        {
+          "waypoint_name" : "Sankt Martin",
+          "address": "An der Universität 2, 96047, Bamberg",
+          "latitude": 49.8935628,
+          "longitude": 10.8882253
+        }
+      ]
+    },
+    {
+      "name": "ZOB - Naturkundemuseum",
+      "description": "Easily accessible",
+      "imageURL": "https://www.naturkundemuseum-bamberg.de/wp-content/uploads/2022/10/60d09202-600x400.jpg",
+      "rating": "4.1",
+      "waypoints": [
+        {
+          "waypoint_name" : "Zentraler Omnibus-Bahnhof (ZOB)",
+          "address": "ZOB, Promenadestraße 6, 96047 Bamberg",
+          "latitude": 49.8937754,
+          "longitude": 10.8917829
+        },
+        {
+          "waypoint_name" : "Rathaus Maximiliansplatz",
+          "address": "Rathaus Maximiliansplatz",
+          "latitude": 49.8948259,
+          "longitude": 10.8895236
+        },
+        {
+          "waypoint_name" : "Sankt Martin",
+          "address": "An der Universität 2, 96047, Bamberg",
+          "latitude": 49.8935628,
+          "longitude": 10.8882253
+        },
+        {
+          "waypoint_name" : "Naturkundemuseum",
+          "address": "Naturkundemuseum, Fleischstraße 2, 96047 Bamberg",
+          "latitude": 49.8943129,
+          "longitude": 10.8879095
+        }
+      ]
+    },
+    {
+      "name": "Ibis - Zollamt",
+      "description": "Fairly accessible",
+      "imageURL": "https://www.ahstatic.com/photos/8394_ho_00_p_1024x768.jpg",
+      "rating": "4.0",
+      "waypoints": [
+        {
+          "waypoint_name" : "Ibis",
+          "address": "ibis, Ludwigstraße 20, 96052 Bamberg",
+          "latitude": 49.8910103,
+          "longitude": 10.8906178
+        },
+        {
+          "waypoint_name" : "Zollamt Bamberg",
+          "address": "Zollamt, Ludwigstraße 28, 96052 Bamberg",
+          "latitude": 49.9031313,
+          "longitude": 10.895353
+        }
+      ]
+    },
+    {
+      "name": "Alte Hofhaltung - Neue Residenz",
+      "description": "Partially accessible",
+      "imageURL": "https://www.schloesser.bayern.de/bilder/schloss/bam_hof450.jpg",
+      "rating": "3.9",
+      "waypoints": [
+        {
+          "waypoint_name" : "Alte Hofhaltung",
+          "address": "Alte Hofhaltung, Domplatz 7, 96049 Bamberg",
+          "latitude":49.8911935,
+          "longitude": 10.8815106
+        },
+        {
+          "waypoint_name" : "Neue Residenz",
+          "address": "Domplatz 8, 96049, Bamberg",
+          "latitude": 49.8917516 ,
+          "longitude": 10.8817535
+        }
+      ]
+    },
+    {
+      "name": "Naturkundemuseum - Rathaus",
+      "description": "Partially accessible",
+      "imageURL": "https://bayern-online.de/typo3temp/assets/_processed_/b/6/csm_ba_naturkundemuseum_vogelsaal_01_ee9853e972.jpg",
+      "rating": "3.9",
+      "waypoints": [
+        {
+          "waypoint_name" : "Naturkundemuseum",
+          "address": "Naturkundemuseum, Fleischstraße 2, 96047 Bamberg",
+          "latitude": 49.8943129,
+          "longitude": 10.8879095
+        },
+        {
+          "waypoint_name" : "Sankt Martin",
+          "address": "An der Universität 2, 96047, Bamberg",
+          "latitude": 49.8935628,
+          "longitude": 10.8882253
+        },
+        {
+          "waypoint_name" : "Rathaus Maximiliansplatz",
+          "address": "Rathaus Maximiliansplatz, 96047 Bamberg",
+          "latitude": 49.894916,
+          "longitude": 10.8893641
+        }
+      ]
+    },
+    {
+      "name": "Historisches Museum - Diözesanmuseum",
+      "description": "Limited accessibility",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bamberg_Di%C3%B6zesanmuseum.jpg",
+      "rating": "3.3",
+      "waypoints": [
+        {
+          "waypoint_name" : "Historisches Museum",
+          "address": "Domplatz 7, 96049, Bamberg",
+          "latitude": 49.8911027,
+          "longitude": 10.8819923
+        },
+        {
+          "waypoint_name" : "Altes Rathaus",
+          "address": "Ob. Brücke, Altes Rathaus, 96049 Bamberg",
+          "latitude": 49.8916002,
+          "longitude": 10.886786 
+        },
+        {
+          "waypoint_name" : "Hofbräu",
+          "address": "Hofbräu, Karolinenstraße 7, 96049 Bamberg",
+          "latitude": 49.8911105,
+          "longitude": 10.886055
+        },
+        {
+          "waypoint_name" : "Diözesanmuseum Bamberg",
+          "address": "Domplatz 5, 96049, Bamberg",
+          "latitude": 49.8905841,
+          "longitude": 10.8832185
+        }
+      ]
+    },
+    {
+      "name": "Historisches Museum - Altes Rathaus",
+      "description": "Limited accessibility",
+      "rating": "3.3",
+      "imageURL": "https://www.fausba.de/wp-content/uploads/2016/12/20161211_160414.jpg",
+      "waypoints": [
+        {
+          "waypoint_name" : "Historisches Museum",
+          "address": "Domplatz 7, 96049, Bamberg",
+          "latitude": 49.8911027,
+          "longitude": 10.8819923
+        },
+        {
+          "waypoint_name" : "Altes Rathaus",
+          "address": "Ob. Brücke, Altes Rathaus, 96049 Bamberg",
+          "latitude": 49.8916002,
+          "longitude": 10.886786 
+        }
+      ]
+    },
+    {
+      "name": "Altes Rathaus - Klein Venedig",
+      "description": "Limited accessibility",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bamberg-Klein-Venedig-5126009.jpg",
+      "rating": "3.0",
+      "waypoints": [
+        {
+          "waypoint_name" : "Altes Rathaus",
+          "address": "Ob. Brücke, Altes Rathaus, 96049 Bamberg",
+          "latitude": 49.8916002,
+          "longitude": 10.886786 
+        },
+        {
+          "waypoint_name" : "Zuckerstück",
+          "address": "Zuckerstück, Ob. Sandstraße 4, 96049 Bamberg",
+          "latitude": 49.8917919,
+          "longitude": 10.8843653
+        },
+        {
+          "waypoint_name" : "Ausblick auf Klein Venedig",
+          "address": "Klein Venedig, Am Leinritt 4, 96049 Bamberg",
+          "latitude": 49.8930179,
+          "longitude": 10.8843976
+        }
+      ]
+    }
+  ]
+}
