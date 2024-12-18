@@ -1,6 +1,6 @@
-# wheelmap
+# Accessiwheel
 
-Basic description 0f the project will be here...
+Simple prototype for a mobile app that allows to choose & follow barrierfree sightseeing routes. Find more information in our poster!
 
 ## Things to do after cloning app
 
